@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un modelo de prueba, del modulo nº2 del PrepCourse de Henry. 
+Micaela García
+Este modelo es una prueba de como crear un repositorio en la nube y clonarlo desde gitbash en mi computadora. 
